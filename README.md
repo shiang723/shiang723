@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### My name is Hannah
-#### Nice to meet you!
 <!--
 **shiang723/shiang723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
